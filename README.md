@@ -1,1 +1,1 @@
-# VVPN
+VPN
